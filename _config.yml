@@ -9,9 +9,9 @@ description: "DevRel Collective 🥑- and So Can You! exists to facilitate shari
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 85ba54 #80B3FF - #18bc9c
+  secondary: d3dc74 #FD6E8A - #2c3e50
+  secondary-dark: 231f20 #A2122F - #233140
 
 # Footer settings -- these are titles of the section
 footer:
